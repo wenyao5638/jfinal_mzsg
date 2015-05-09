@@ -1,0 +1,120 @@
+a{color:#FF8400;text-decoration: underline;}
+a:hover {background-color:#3C6E31;color:white;}
+table.hovertable {
+	font-family: verdana,arial,sans-serif;
+	font-size:12px;
+    color:#333333;
+	border-width: 1px;
+	border-color: #CDCDCD;
+	border-collapse: collapse;
+	width: 95%;
+	margin-top: 20px;
+}
+ 
+table.hovertable td {
+	border-width: 1px;
+	padding: 10px;
+	border-style: solid;
+	border-color:#CDCDCD;
+}
+
+tr.title {
+   background-color:#f4f4f4;
+}
+tr.title2 {
+   background-color:#f0fefe;
+}
+td.title {
+   background-color:#f0fefe;
+   height: 25;
+   width:10%;
+   text-align: right;
+}
+td.title2 {
+   background-color:#f0fefe;
+   height: 25;
+   width:25%;
+   text-align: left;
+}
+td.title3 {
+   background-color:#f0fefe;
+   height: 25;
+   width:25%;
+   text-align: center;
+}
+td.title4 {
+  background-color:#f0fefe;
+   height: 25;
+   width:10%;
+   text-align: center;
+}
+td.title5 {
+  background-color:#f0fefe;
+   height: 25;
+   width:10%;
+   text-align: left;
+}
+
+td.content {
+   background-color:#f4f4f4;
+}
+div.cssys {
+  width: 500px; 
+  font-size: 12px; 
+  border-color: #95b8e7;
+  padding: 5px;
+  border-style: solid;
+  border-width: 1px;
+  margin-left: 35px;
+  margin-top: 10px;
+
+}
+ul.ztree {
+		margin-top: 10px;
+		border: 1px solid #617775;
+		background: #FFFFFF;
+		width: 98%;
+		height: 400px;
+		overflow-y: scroll;
+		overflow-x: auto;
+}
+
+table.querytable {
+	font-family: verdana,arial,sans-serif;
+	font-size:12px;
+    color:#333333;
+	border-width: 1px;
+	border-color: #95b8e7;
+	border-collapse: collapse;
+	width: 100%;
+}
+table.querytable td {
+	border-width: 1px;
+	padding: 2px;
+	border-style: solid;
+	border-color:#95b8e7;
+}
+td.querytitle {
+   background-color:#F9F9F9;
+   height: 13;
+   width:11%;
+   text-align: right;
+}
+td.querybutton {
+   background-color:#f0fefe;
+   height: 13;
+   width:12%;
+   text-align: center;
+}
+input{
+	text-indent : 4px;
+	color : #000000;
+	border: 1px solid  #CDCDCD;
+	height:25px;
+}
+textarea{
+	
+	text-indent : 2px;
+	color : #000000;
+	border: 1px solid  #CDCDCD;
+}

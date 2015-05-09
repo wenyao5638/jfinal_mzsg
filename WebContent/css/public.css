@@ -1,0 +1,142 @@
+ 
+.iconuserchange {
+	background: url('../images/top/all-ico-black.gif') no-repeat scroll 0 0
+		transparent;
+	background-position: -466px -1188px;
+	margin-left: 2px;
+	padding-left: 18px;
+	height: 18px;
+	width: 18px;
+	overflow: hidden;
+}
+
+.iconuserout {
+	background: url('../images/top/all-ico-black.gif') no-repeat scroll 0 0
+		transparent;
+	background-position: -125px -1453px;
+	background-position: -125px -1453px;
+	margin-left: 2px;
+	padding-left: 18px;
+	height: 18px;
+	width: 18px;
+	overflow: hidden;
+	overflow: hidden;
+}
+
+.DialogContainer {
+	text-align: left;
+	width: 700px;
+	float: left;
+	position: relative;
+	padding: 6px 0;
+	z-index: 1001;
+	display: none;
+}
+
+.TextBox {
+	border: 1px solid #ff0000;
+}
+
+.pop_form {
+	width: 90% !important;
+	width: 90%;
+	border: 0px;
+	cellspacing: 0px;
+	cellpadding: 0px;
+	word-wrap: break-word;
+	word-break: break-all;
+	white-space: normal;
+	margin-top: 12px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.pop_form table {
+	margin-top: 30px;
+	width: 90%;
+}
+
+.pop_form tr {
+	margin: 0px;
+	padding: 0px;
+}
+
+.pop_form th {
+	font-weight: bold;
+	text-align: right;
+	vertical-align: top;
+	height: 26px;
+	width: 15%;
+}
+
+.pop_form td {
+	margin: 0px;
+	padding: 0px;
+	text-align: left;
+	vertical-align: top;
+	color: #000;
+	width: 35%;
+}
+
+.pop_form {
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.pop_form input[type="text"] {
+	margin-left: auto;
+	margin-right: auto;
+	width: 160px;
+	text-align: left;
+	border: 1px solid #91B1D5;
+	padding: 4px 0 0 2px;
+}
+
+.pop_form input[type="password"] {
+	margin-left: auto;
+	margin-right: auto;
+	width: 160px;
+	text-align: left;
+	border: 1px solid #91B1D5;
+	padding: 4px 0 0 2px;
+}
+
+.pop_form input[type="button"] {
+	font-weight: normal;
+	font-size: 12px;
+	color: #000;
+	margin: 10px;
+	font-family: Arial, Helvetica, sans-serif;
+	background: url(../images/an3.gif);
+	border: 0px;
+	width: 44px;
+	height: 21px;
+	line-height: 21px;
+}
+
+.pop_form input[type="radio"] {
+	border: none;
+}
+
+.pop_form input[type="checkbox"] {
+	border: none;
+}
+
+.pop_form select {
+	margin-left: auto;
+	margin-right: auto;
+	width: 160px;
+	text-align: left;
+	border: 1px solid #91B1D5;
+	padding: 4px 0 0 2px;
+}
+
+.pop_form textarea {
+	margin-left: auto;
+	margin-right: auto;
+	text-align: left;
+	border: 1px solid #91B1D5;
+	padding: 4px 0 0 2px;
+	resize: none;
+}
+
